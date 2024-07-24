@@ -1,4 +1,3 @@
-﻿#BAYESIAN_BELIEF:
 import pandas as pd
 from pgmpy.models import BayesianNetwork
 from pgmpy.estimators import MaximumLikelihoodEstimator
